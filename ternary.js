@@ -13,3 +13,8 @@ let weather = (temp > 30) ? "Hot"
             : "Cold";
 
 console.log(weather); // Outputs: Warm
+
+
+
+
+//     !var     ! dia not bujae      purai cpp    hehe      !! 2 bar dile abr not er por abr not hoy     
