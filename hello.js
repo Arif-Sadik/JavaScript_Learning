@@ -11,7 +11,7 @@ console.log(b)
 
 console.log (typeof b)
 
-//parse     to fixed
+//parse     to fixed        fixed korle ota string hoye jay 
 var num='20.45'
 console.log(parseInt(num))
 console.log(parseFloat(num))
